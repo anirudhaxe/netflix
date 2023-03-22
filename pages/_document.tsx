@@ -19,7 +19,7 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <link rel="icon" type="image/png" href="/favicon.png" />
+          <link rel="icon" type="image/x-icon" href="/favicon.ico" />
           <title>Netflix | Stream Now</title>
         </Head>
         <body>
